@@ -1,0 +1,1 @@
+export const BASE_PROMPT = `The following is the description of a shell script. Please write the shell script such that it can be executed. Do not provide any explanation of the script, only provide the code. If you are unable to generate the script, please respond exactly with "<%>ERROR: COULD_NOT_COMPLETE". The description of the script is as follows:`;
